@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button{
+    width: 20rem;
+    height: 40px;
+    background-color: cornflowerblue;
+}
+.buttons{
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+
+}
+    
